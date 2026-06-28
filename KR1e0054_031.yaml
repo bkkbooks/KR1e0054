@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1e0054/krp/v1/juan/31
+seq: 31
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 春秋詳說原跋至元丙子宋亡以則堂先生歸置諸瀛者十年卒成此書書成自瀛寄宣託於其友肅齊潘公從大藏之蓋久而綱目十篇學士大夫已盛傳於世矣泰定乙丑宣學以廪士之贏刋大學疏義等書取諸潘氏鋟梓於學凡三十卷其曰春秋集傳詳說蓋俟夫說約者得經旨焉此先生著述意也先生之祖大酉以成都府教授列於朱文公學黨之籍其源流有自云髙郵龔璛跋
+  hash: sha256:67284cccfc652fd09ddb05250e6a123ed28ed5ba5e588248b4dcf9c7cdb9f5fc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1e0054_WYG_031-1a, image: WYG0158/WYG0158-0508a.png}
+metadata:
+  title: 春秋集傳詳說
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:14:40.322455'
+  juan_title: 原跋
+  source:
+    repository: kanripo
+    path: KR1e0054/KR1e0054_031.txt
+hash: sha256:e16e5eb891bdc4f76097e5b556d01d95dfe6213f952da184ecbbb4381f2219b0
